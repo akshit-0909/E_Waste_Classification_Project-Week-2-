@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Gradio cache
+.gradio/
+
+# Ignore dataset
+modified-dataset/
+
+# Ignore Python cache
+__pycache__/
