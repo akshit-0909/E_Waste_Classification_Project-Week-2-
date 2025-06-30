@@ -1,3 +1,5 @@
+E-WASTE CLASSFICATION PROJECT
+
 This project is focused on building an efficient deep learning model to classify electronic waste (e-waste) images into various categories like Battery, Keyboard, Mobile, Mouse, PCB, Printer, and more. It utilizes transfer learning with EfficientNetV2B0 and is deployed via a Gradio web interface for real-time testing.
 
 
